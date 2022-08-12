@@ -4,6 +4,6 @@ Food Delivery APP using React, Redux, Firebase & Material-UI..
 
 
 ## Desktop View
+![image](https://user-images.githubusercontent.com/92110183/184383738-f75c1318-97e5-4b43-a8ac-3cdb78d9192e.png)
 
-image.png
 
